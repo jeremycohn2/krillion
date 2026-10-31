@@ -1,0 +1,5204 @@
+{
+  "format": "deep-dive",
+  "version": 2,
+  "title": "Jeremy Cohn Krillion Day 1",
+  "description": "Seven categories, curated by yours truly.",
+  "seconds": 25,
+  "categories": [
+    {
+      "id": "plankton",
+      "name": "Plankton",
+      "points": 10,
+      "color": "#afbdcb"
+    },
+    {
+      "id": "too-clever",
+      "name": "Too Clever",
+      "points": 15,
+      "color": "#ffb16b"
+    },
+    {
+      "id": "schooler",
+      "name": "Schooler",
+      "points": 30,
+      "color": "#79cfdf"
+    },
+    {
+      "id": "rare",
+      "name": "Rare",
+      "points": 60,
+      "color": "#6af0bb"
+    },
+    {
+      "id": "deep-cut",
+      "name": "Deep Cut",
+      "points": 85,
+      "color": "#c49aff"
+    },
+    {
+      "id": "krillion",
+      "name": "One in a Krillion",
+      "points": 100,
+      "color": "#ff5896"
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Name a car brand that actively sells cars today.",
+      "answers": [
+        {
+          "text": "Abarth",
+          "category": "deep-cut",
+          "aliases": [
+            "ABARTH"
+          ]
+        },
+        {
+          "text": "AC Cars",
+          "category": "deep-cut",
+          "aliases": [
+            "AC"
+          ]
+        },
+        {
+          "text": "Acura",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Aion",
+          "category": "deep-cut",
+          "aliases": [
+            "GAC Aion"
+          ]
+        },
+        {
+          "text": "Alfa Romeo",
+          "category": "rare",
+          "aliases": [
+            "Alfa"
+          ]
+        },
+        {
+          "text": "Alpine",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ariel",
+          "category": "deep-cut",
+          "aliases": [
+            "Ariel Motor Company"
+          ]
+        },
+        {
+          "text": "Arcfox",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Aurus",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Aston Martin",
+          "category": "schooler",
+          "aliases": [
+            "Aston"
+          ]
+        },
+        {
+          "text": "Audi",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Avatr",
+          "category": "krillion",
+          "aliases": [
+            "AVATR"
+          ]
+        },
+        {
+          "text": "BAIC",
+          "category": "deep-cut",
+          "aliases": [
+            "Beijing Automotive"
+          ]
+        },
+        {
+          "text": "Baojun",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "BAC",
+          "category": "deep-cut",
+          "aliases": [
+            "Briggs Automotive Company"
+          ]
+        },
+        {
+          "text": "Bestune",
+          "category": "krillion",
+          "aliases": [
+            "Besturn"
+          ]
+        },
+        {
+          "text": "Bentley",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "BMW",
+          "category": "plankton",
+          "aliases": [
+            "Bavarian Motor Works"
+          ]
+        },
+        {
+          "text": "Bugatti",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Buick",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "BYD",
+          "category": "deep-cut",
+          "aliases": [
+            "Build Your Dreams"
+          ]
+        },
+        {
+          "text": "Cadillac",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Caterham",
+          "category": "deep-cut",
+          "aliases": [
+            "Caterham Cars"
+          ]
+        },
+        {
+          "text": "Changan",
+          "category": "deep-cut",
+          "aliases": [
+            "Changan Auto"
+          ]
+        },
+        {
+          "text": "Chery",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Chevrolet",
+          "category": "plankton",
+          "aliases": [
+            "Chevy"
+          ]
+        },
+        {
+          "text": "Chrysler",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Citroën",
+          "category": "rare",
+          "aliases": [
+            "Citroen"
+          ]
+        },
+        {
+          "text": "Corvette",
+          "category": "schooler",
+          "aliases": [
+            "Chevrolet Corvette"
+          ]
+        },
+        {
+          "text": "Cupra",
+          "category": "deep-cut",
+          "aliases": [
+            "CUPRA"
+          ]
+        },
+        {
+          "text": "Czinger",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dacia",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Daihatsu",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Deepal",
+          "category": "deep-cut",
+          "aliases": [
+            "Shenlan"
+          ]
+        },
+        {
+          "text": "Denza",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Discovery",
+          "category": "deep-cut",
+          "aliases": [
+            "Land Rover Discovery"
+          ]
+        },
+        {
+          "text": "Dodge",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Dongfeng",
+          "category": "deep-cut",
+          "aliases": [
+            "Dongfeng Motor"
+          ]
+        },
+        {
+          "text": "DS Automobiles",
+          "category": "deep-cut",
+          "aliases": [
+            "DS"
+          ]
+        },
+        {
+          "text": "Exeed",
+          "category": "deep-cut",
+          "aliases": [
+            "EXEED"
+          ]
+        },
+        {
+          "text": "Fangchengbao",
+          "category": "krillion",
+          "aliases": [
+            "Formula Leopard"
+          ]
+        },
+        {
+          "text": "Ferrari",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Fiat",
+          "category": "schooler",
+          "aliases": [
+            "FIAT"
+          ]
+        },
+        {
+          "text": "Ford",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Forthing",
+          "category": "krillion",
+          "aliases": [
+            "Dongfeng Forthing"
+          ]
+        },
+        {
+          "text": "Geely",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Genesis",
+          "category": "rare",
+          "aliases": [
+            "Genesis Motors"
+          ]
+        },
+        {
+          "text": "Ginetta",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "GMC",
+          "category": "schooler",
+          "aliases": [
+            "General Motors Truck Company"
+          ]
+        },
+        {
+          "text": "Gordon Murray Automotive",
+          "category": "deep-cut",
+          "aliases": [
+            "GMA"
+          ]
+        },
+        {
+          "text": "Great Wall",
+          "category": "deep-cut",
+          "aliases": [
+            "GWM",
+            "Great Wall Motors"
+          ]
+        },
+        {
+          "text": "Haval",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Honda",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hongqi",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Hyundai",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Hyptec",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "iCar",
+          "category": "krillion",
+          "aliases": [
+            "iCAR"
+          ]
+        },
+        {
+          "text": "IM Motors",
+          "category": "deep-cut",
+          "aliases": [
+            "IM"
+          ]
+        },
+        {
+          "text": "INEOS",
+          "category": "deep-cut",
+          "aliases": [
+            "INEOS Automotive"
+          ]
+        },
+        {
+          "text": "Infiniti",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Isuzu",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Jaguar",
+          "category": "schooler",
+          "aliases": [
+            "Jag"
+          ]
+        },
+        {
+          "text": "Jaecoo",
+          "category": "deep-cut",
+          "aliases": [
+            "JAECOO"
+          ]
+        },
+        {
+          "text": "JAC",
+          "category": "deep-cut",
+          "aliases": [
+            "JAC Motors"
+          ]
+        },
+        {
+          "text": "Jetour",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Jeep",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Kia",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "KG Mobility",
+          "category": "deep-cut",
+          "aliases": [
+            "KGM",
+            "SsangYong"
+          ]
+        },
+        {
+          "text": "Koenigsegg",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Lamborghini",
+          "category": "plankton",
+          "aliases": [
+            "Lambo"
+          ]
+        },
+        {
+          "text": "Lancia",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Leapmotor",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Land Rover",
+          "category": "deep-cut",
+          "aliases": [
+            "LR"
+          ]
+        },
+        {
+          "text": "Lexus",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Li Auto",
+          "category": "deep-cut",
+          "aliases": [
+            "Li Xiang"
+          ]
+        },
+        {
+          "text": "Lincoln",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Lotus",
+          "category": "rare",
+          "aliases": [
+            "Lotus Cars"
+          ]
+        },
+        {
+          "text": "Lucid",
+          "category": "rare",
+          "aliases": [
+            "Lucid Motors"
+          ]
+        },
+        {
+          "text": "Luxeed",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Lynk & Co",
+          "category": "deep-cut",
+          "aliases": [
+            "Lynk and Co"
+          ]
+        },
+        {
+          "text": "Mahindra",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Maruti Suzuki",
+          "category": "deep-cut",
+          "aliases": [
+            "Maruti"
+          ]
+        },
+        {
+          "text": "Maserati",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Maxus",
+          "category": "deep-cut",
+          "aliases": [
+            "LDV"
+          ]
+        },
+        {
+          "text": "Mazda",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "McLaren",
+          "category": "schooler",
+          "aliases": [
+            "McLaren Automotive"
+          ]
+        },
+        {
+          "text": "Mercedes-Benz",
+          "category": "plankton",
+          "aliases": [
+            "Mercedes",
+            "Mercedes Benz",
+            "Benz"
+          ]
+        },
+        {
+          "text": "MG",
+          "category": "deep-cut",
+          "aliases": [
+            "Morris Garages"
+          ]
+        },
+        {
+          "text": "MINI",
+          "category": "plankton",
+          "aliases": [
+            "Mini"
+          ]
+        },
+        {
+          "text": "Mitsubishi",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Morgan",
+          "category": "deep-cut",
+          "aliases": [
+            "Morgan Motor Company"
+          ]
+        },
+        {
+          "text": "NIO",
+          "category": "deep-cut",
+          "aliases": [
+            "Nio"
+          ]
+        },
+        {
+          "text": "Nissan",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Omoda",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Onvo",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Opel",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ora",
+          "category": "deep-cut",
+          "aliases": [
+            "ORA"
+          ]
+        },
+        {
+          "text": "Pagani",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Peugeot",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Perodua",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Polestar",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Porsche",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Proton",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "RAM",
+          "category": "schooler",
+          "aliases": [
+            "Ram Trucks"
+          ]
+        },
+        {
+          "text": "Renault",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Rimac",
+          "category": "deep-cut",
+          "aliases": [
+            "Rimac Automobili"
+          ]
+        },
+        {
+          "text": "Rivian",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Rolls-Royce",
+          "category": "plankton",
+          "aliases": [
+            "Rolls Royce"
+          ]
+        },
+        {
+          "text": "Roewe",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "SEAT",
+          "category": "deep-cut",
+          "aliases": [
+            "Seat"
+          ]
+        },
+        {
+          "text": "Škoda",
+          "category": "deep-cut",
+          "aliases": [
+            "Skoda"
+          ]
+        },
+        {
+          "text": "Smart",
+          "category": "rare",
+          "aliases": [
+            "smart"
+          ]
+        },
+        {
+          "text": "Skyworth",
+          "category": "deep-cut",
+          "aliases": [
+            "Skywell"
+          ]
+        },
+        {
+          "text": "Subaru",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Suzuki",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Tata",
+          "category": "deep-cut",
+          "aliases": [
+            "Tata Motors"
+          ]
+        },
+        {
+          "text": "Tank",
+          "category": "deep-cut",
+          "aliases": [
+            "TANK"
+          ]
+        },
+        {
+          "text": "Tesla",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Toyota",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Trumpchi",
+          "category": "deep-cut",
+          "aliases": [
+            "GAC Trumpchi"
+          ]
+        },
+        {
+          "text": "Vauxhall",
+          "category": "deep-cut",
+          "aliases": [
+            "Vauxhall Motors"
+          ]
+        },
+        {
+          "text": "VinFast",
+          "category": "deep-cut",
+          "aliases": [
+            "VinFast Auto"
+          ]
+        },
+        {
+          "text": "Volkswagen",
+          "category": "plankton",
+          "aliases": [
+            "VW",
+            "Volkswagen AG"
+          ]
+        },
+        {
+          "text": "Volvo",
+          "category": "plankton",
+          "aliases": [
+            "Volvo Cars"
+          ]
+        },
+        {
+          "text": "Voyah",
+          "category": "deep-cut",
+          "aliases": [
+            "VOYAH"
+          ]
+        },
+        {
+          "text": "Wey",
+          "category": "deep-cut",
+          "aliases": [
+            "WEY"
+          ]
+        },
+        {
+          "text": "Wuling",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "XPeng",
+          "category": "deep-cut",
+          "aliases": [
+            "Xpeng",
+            "Xiaopeng"
+          ]
+        },
+        {
+          "text": "Xiaomi",
+          "category": "deep-cut",
+          "aliases": [
+            "Xiaomi Auto"
+          ]
+        },
+        {
+          "text": "Yangwang",
+          "category": "deep-cut",
+          "aliases": [
+            "YANGWANG"
+          ]
+        },
+        {
+          "text": "Zeekr",
+          "category": "deep-cut",
+          "aliases": [
+            "ZEEKR"
+          ]
+        },
+        {
+          "text": "Range Rover",
+          "category": "schooler",
+          "aliases": [
+            "Rangerover"
+          ]
+        },
+        {
+          "text": "Defender",
+          "category": "deep-cut",
+          "aliases": [
+            "Land Rover Defender"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name an animal species currently housed at the Saint Louis Zoo.",
+      "answers": [
+        {
+          "text": "Bear",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Grizzly Bear",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Polar Bear",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "African Lion",
+          "category": "plankton",
+          "aliases": [
+            "Lion"
+          ]
+        },
+        {
+          "text": "Amur Tiger",
+          "category": "plankton",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "text": "Cheetah",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Amur Leopard",
+          "category": "schooler",
+          "aliases": [
+            "Leopard"
+          ]
+        },
+        {
+          "text": "Ocelot",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dog",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "African Painted Dog",
+          "category": "rare",
+          "aliases": [
+            "Painted Dog"
+          ]
+        },
+        {
+          "text": "Ape",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Chimpanzee",
+          "category": "plankton",
+          "aliases": [
+            "Chimp"
+          ]
+        },
+        {
+          "text": "Western Lowland Gorilla",
+          "category": "plankton",
+          "aliases": [
+            "Gorilla"
+          ]
+        },
+        {
+          "text": "Sumatran Orangutan",
+          "category": "schooler",
+          "aliases": [
+            "Orangutan"
+          ]
+        },
+        {
+          "text": "Monkey",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Allen's Swamp Monkey",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Black-handed Spider Monkey",
+          "category": "rare",
+          "aliases": [
+            "Spider Monkey"
+          ]
+        },
+        {
+          "text": "Mexican Spider Monkey",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Guereza Colobus Monkey",
+          "category": "deep-cut",
+          "aliases": [
+            "Colobus Monkey"
+          ]
+        },
+        {
+          "text": "Francois' Langur",
+          "category": "deep-cut",
+          "aliases": [
+            "Langur"
+          ]
+        },
+        {
+          "text": "Spectacled Langur",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ring-tailed Lemur",
+          "category": "schooler",
+          "aliases": [
+            "Lemur"
+          ]
+        },
+        {
+          "text": "Black and White Ruffed Lemur",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Mongoose Lemur",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Coquerel's Sifaka",
+          "category": "krillion",
+          "aliases": [
+            "Sifaka"
+          ]
+        },
+        {
+          "text": "Dwarf Mongoose",
+          "category": "schooler",
+          "aliases": [
+            "Mongoose"
+          ]
+        },
+        {
+          "text": "Antelope",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Addax",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Addra Gazelle",
+          "category": "schooler",
+          "aliases": [
+            "Gazelle"
+          ]
+        },
+        {
+          "text": "Gerenuk",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Lesser Kudu",
+          "category": "deep-cut",
+          "aliases": [
+            "Kudu"
+          ]
+        },
+        {
+          "text": "Nile Lechwe",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Soemmerring's Gazelle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Speke's Gazelle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Transcaspian Urial",
+          "category": "deep-cut",
+          "aliases": [
+            "Urial"
+          ]
+        },
+        {
+          "text": "Babirusa",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bactrian Camel",
+          "category": "schooler",
+          "aliases": [
+            "Camel"
+          ]
+        },
+        {
+          "text": "Banteng",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Capybara",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Central Chinese Goral",
+          "category": "krillion",
+          "aliases": [
+            "Goral"
+          ]
+        },
+        {
+          "text": "Chacoan Peccary",
+          "category": "deep-cut",
+          "aliases": [
+            "Peccary"
+          ]
+        },
+        {
+          "text": "Black Rhinoceros",
+          "category": "plankton",
+          "aliases": [
+            "Rhino"
+          ]
+        },
+        {
+          "text": "Asian Elephant",
+          "category": "plankton",
+          "aliases": [
+            "Elephant"
+          ]
+        },
+        {
+          "text": "Giant Anteater",
+          "category": "schooler",
+          "aliases": [
+            "Anteater"
+          ]
+        },
+        {
+          "text": "Grevy's Zebra",
+          "category": "plankton",
+          "aliases": [
+            "Zebra"
+          ]
+        },
+        {
+          "text": "Reticulated Giraffe",
+          "category": "plankton",
+          "aliases": [
+            "Giraffe"
+          ]
+        },
+        {
+          "text": "Hippopotamus",
+          "category": "plankton",
+          "aliases": [
+            "Hippo"
+          ]
+        },
+        {
+          "text": "Hoffman's Two-toed Sloth",
+          "category": "plankton",
+          "aliases": [
+            "Sloth"
+          ]
+        },
+        {
+          "text": "Black-tailed Prairie Dog",
+          "category": "schooler",
+          "aliases": [
+            "Prairie Dog"
+          ]
+        },
+        {
+          "text": "Red Kangaroo",
+          "category": "plankton",
+          "aliases": [
+            "Kangaroo"
+          ]
+        },
+        {
+          "text": "Okapi",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Red Panda",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Sichuan Takin",
+          "category": "deep-cut",
+          "aliases": [
+            "Takin"
+          ]
+        },
+        {
+          "text": "Somali Wild Ass",
+          "category": "deep-cut",
+          "aliases": [
+            "Wild Ass",
+            "Ass"
+          ]
+        },
+        {
+          "text": "Spotted Hyena",
+          "category": "plankton",
+          "aliases": [
+            "Hyena"
+          ]
+        },
+        {
+          "text": "California Sea Lion",
+          "category": "schooler",
+          "aliases": [
+            "Sea Lion"
+          ]
+        },
+        {
+          "text": "Harbor Seal",
+          "category": "schooler",
+          "aliases": [
+            "Seal"
+          ]
+        },
+        {
+          "text": "Penguin",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Gentoo Penguin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Humboldt Penguin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "King Penguin",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Southern Rockhopper Penguin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Owl",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Barred Owl",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Burrowing Owl",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Eastern Screech Owl",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Great Horned Owl",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Spectacled Owl",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Duck",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "American Wood Duck",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Blue-winged Teal",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bufflehead Duck",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Canvasback",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Hooded Merganser",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Marbled Teal",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Northern Pintail Duck",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Northern Shoveler",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ruddy Duck",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ringed Teal",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Goose",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Bar-headed Goose",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Swan Goose",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Trumpeter Swan",
+          "category": "schooler",
+          "aliases": [
+            "Swan"
+          ]
+        },
+        {
+          "text": "Eagle",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bateleur Eagle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Cinereous Vulture",
+          "category": "schooler",
+          "aliases": [
+            "Vulture"
+          ]
+        },
+        {
+          "text": "King Vulture",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "American Flamingo",
+          "category": "plankton",
+          "aliases": [
+            "Flamingo"
+          ]
+        },
+        {
+          "text": "American White Pelican",
+          "category": "schooler",
+          "aliases": [
+            "Pelican"
+          ]
+        },
+        {
+          "text": "Crane",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "East African Crowned Crane",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "White-naped Crane",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Black-crowned Night Heron",
+          "category": "schooler",
+          "aliases": [
+            "Heron"
+          ]
+        },
+        {
+          "text": "Cattle Egret",
+          "category": "rare",
+          "aliases": [
+            "Egret"
+          ]
+        },
+        {
+          "text": "Snowy Egret",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Yellow-crowned Night Heron",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Puffin",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Horned Puffin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tufted Puffin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Pigeon",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Victoria Crowned Pigeon",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Magnificent Ground-Pigeon",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dove",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Luzon Bleeding Heart Dove",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Mariana's Fruit Dove",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "White-throated Ground Dove",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Peafowl",
+          "category": "rare",
+          "aliases": [
+            "Peacock"
+          ]
+        },
+        {
+          "text": "Congo Peafowl",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Palawan Peacock Pheasant",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Hornbill",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Red-billed Hornbill",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Rhinoceros Hornbill",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Saddlebill Stork",
+          "category": "rare",
+          "aliases": [
+            "Stork"
+          ]
+        },
+        {
+          "text": "Toco Toucan",
+          "category": "schooler",
+          "aliases": [
+            "Toucan"
+          ]
+        },
+        {
+          "text": "Guam Kingfisher",
+          "category": "deep-cut",
+          "aliases": [
+            "Kingfisher"
+          ]
+        },
+        {
+          "text": "Laughing Kookaburra",
+          "category": "rare",
+          "aliases": [
+            "Kookaburra"
+          ]
+        },
+        {
+          "text": "Crested Wood Partridge",
+          "category": "schooler",
+          "aliases": [
+            "Partridge"
+          ]
+        },
+        {
+          "text": "Pheasant",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Cabot's Tragopan",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Vietnam Pheasant",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Starling",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Golden-breasted Starling",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bee-eater",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Carmine Bee-eater",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bustard",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Buff-crested Bustard",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Thick-knee",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Cape Thick-knee",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Cormorant",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Double-crested Cormorant",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Magpie",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Red-billed Blue Magpie",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Bald Eagle",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Bali Myna",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bearded Barbet",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Elegant Crested Tinamou",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Grey-winged Trumpeter",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Helmeted Curassow",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Magpie Robin",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Ostrich",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Red-legged Seriema",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Roseate Spoonbill",
+          "category": "rare",
+          "aliases": [
+            "Spoonbill"
+          ]
+        },
+        {
+          "text": "Saipan Golden White-eye",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Spur-winged Plover",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Sunbittern",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tawny Frogmouth",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "White Ibis",
+          "category": "rare",
+          "aliases": [
+            "Ibis"
+          ]
+        },
+        {
+          "text": "White-cheeked Bulbul",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "White-headed Buffalo Weaver",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Snake",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Viper",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Armenian Viper",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Caucasus Blunt-nosed Viper",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Ocellate Mountain Viper",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "West African Gaboon Viper",
+          "category": "rare",
+          "aliases": [
+            "Gaboon Viper"
+          ]
+        },
+        {
+          "text": "Black Mamba",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Bullsnake",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Boelen's Python",
+          "category": "schooler",
+          "aliases": [
+            "Python"
+          ]
+        },
+        {
+          "text": "Jamaican Boa",
+          "category": "schooler",
+          "aliases": [
+            "Boa"
+          ]
+        },
+        {
+          "text": "King Cobra",
+          "category": "schooler",
+          "aliases": [
+            "Cobra"
+          ]
+        },
+        {
+          "text": "Rattlesnake",
+          "category": "schooler",
+          "aliases": [
+            "Diamondback"
+          ]
+        },
+        {
+          "text": "Timber Rattlesnake",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Turtle",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Tortoise",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Aldabra Tortoise",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Black-breasted Leaf Turtle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "McCord's Box Turtle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Narrow-headed Softshell Turtle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Northern Spider Tortoise",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Pig-nosed Turtle",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Alligator",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "American Alligator",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Chinese Alligator",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Crocodile",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Lizard",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Banded Gila Monster",
+          "category": "rare",
+          "aliases": [
+            "Gila Monster"
+          ]
+        },
+        {
+          "text": "Chinese Crocodile Lizard",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Gray's Monitor",
+          "category": "deep-cut",
+          "aliases": [
+            "Monitor Lizard"
+          ]
+        },
+        {
+          "text": "Jamaican Iguana",
+          "category": "rare",
+          "aliases": [
+            "Iguana"
+          ]
+        },
+        {
+          "text": "Komodo Dragon",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Scheltopusik",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Frog",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Andean Marsupial Frog",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Kiki Poison Dart Frog",
+          "category": "rare",
+          "aliases": [
+            "Poison Dart Frog"
+          ]
+        },
+        {
+          "text": "Lake Titicaca Frog",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Mountain Chicken",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Rio Pescado Stubfoot Toad",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Spurrell's Leaf Frog",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tomato Frog",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Toad",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Green Toad",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Puerto Rican Crested Toad",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Salamander",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Eastern Hellbender",
+          "category": "rare",
+          "aliases": [
+            "Hellbender"
+          ]
+        },
+        {
+          "text": "Ozark Hellbender",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Western Lesser Siren",
+          "category": "deep-cut",
+          "aliases": [
+            "Lesser Siren"
+          ]
+        },
+        {
+          "text": "Shark",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bamboo Shark",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Stingray",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Cownose Stingray",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Southern Stingray",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bigmouth Buffalo Fish",
+          "category": "deep-cut",
+          "aliases": [
+            "Buffalo Fish"
+          ]
+        },
+        {
+          "text": "Spotted Gar",
+          "category": "rare",
+          "aliases": [
+            "Gar"
+          ]
+        },
+        {
+          "text": "Spotted Tilapia",
+          "category": "deep-cut",
+          "aliases": [
+            "Tilapia"
+          ]
+        },
+        {
+          "text": "Centipede",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Death's Head Cockroach",
+          "category": "schooler",
+          "aliases": [
+            "Cockroach"
+          ]
+        },
+        {
+          "text": "Eastern Carpenter Bee",
+          "category": "schooler",
+          "aliases": [
+            "Bee"
+          ]
+        },
+        {
+          "text": "Flamboyant Flower Beetle",
+          "category": "schooler",
+          "aliases": [
+            "Beetle"
+          ]
+        },
+        {
+          "text": "Spider",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Golden Silk Spider",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tarantula",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Mexican Red-kneed Tarantula",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Silkworm",
+          "category": "rare",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "prompt": "Name a metro area in the 50 United States with a population over 500,000.",
+      "answers": [
+        {
+          "text": "Akron",
+          "category": "deep-cut",
+          "aliases": [
+            "Akron, OH"
+          ]
+        },
+        {
+          "text": "Albany",
+          "category": "rare",
+          "aliases": [
+            "Albany, NY"
+          ]
+        },
+        {
+          "text": "Albuquerque",
+          "category": "schooler",
+          "aliases": [
+            "ABQ"
+          ]
+        },
+        {
+          "text": "Allentown-Bethlehem-Easton",
+          "category": "deep-cut",
+          "aliases": [
+            "Lehigh Valley",
+            "Allentown"
+          ]
+        },
+        {
+          "text": "Augusta",
+          "category": "rare",
+          "aliases": [
+            "Augusta, GA"
+          ]
+        },
+        {
+          "text": "Austin",
+          "category": "plankton",
+          "aliases": [
+            "Austin, TX"
+          ]
+        },
+        {
+          "text": "Bakersfield",
+          "category": "rare",
+          "aliases": [
+            "Bakersfield, CA"
+          ]
+        },
+        {
+          "text": "Baltimore",
+          "category": "plankton",
+          "aliases": [
+            "Baltimore, MD"
+          ]
+        },
+        {
+          "text": "Baton Rouge",
+          "category": "rare",
+          "aliases": [
+            "Baton Rouge, LA"
+          ]
+        },
+        {
+          "text": "Boise",
+          "category": "rare",
+          "aliases": [
+            "Boise, ID"
+          ]
+        },
+        {
+          "text": "Boston",
+          "category": "plankton",
+          "aliases": [
+            "Greater Boston"
+          ]
+        },
+        {
+          "text": "Bridgeport-Stamford-Danbury",
+          "category": "deep-cut",
+          "aliases": [
+            "Fairfield County",
+            "Bridgeport",
+            "Stamford"
+          ]
+        },
+        {
+          "text": "Buffalo",
+          "category": "schooler",
+          "aliases": [
+            "Buffalo, NY"
+          ]
+        },
+        {
+          "text": "Cape Coral-Fort Myers",
+          "category": "rare",
+          "aliases": [
+            "Fort Myers",
+            "Cape Coral"
+          ]
+        },
+        {
+          "text": "Charleston",
+          "category": "schooler",
+          "aliases": [
+            "Charleston, SC"
+          ]
+        },
+        {
+          "text": "Charlotte",
+          "category": "plankton",
+          "aliases": [
+            "Charlotte, NC"
+          ]
+        },
+        {
+          "text": "Chattanooga",
+          "category": "rare",
+          "aliases": [
+            "Chattanooga, TN"
+          ]
+        },
+        {
+          "text": "Chicago",
+          "category": "plankton",
+          "aliases": [
+            "Chicagoland"
+          ]
+        },
+        {
+          "text": "Cincinnati",
+          "category": "schooler",
+          "aliases": [
+            "Cincinnati, OH"
+          ]
+        },
+        {
+          "text": "Cleveland",
+          "category": "schooler",
+          "aliases": [
+            "Cleveland, OH"
+          ]
+        },
+        {
+          "text": "Colorado Springs",
+          "category": "rare",
+          "aliases": [
+            "Colorado Springs, CO"
+          ]
+        },
+        {
+          "text": "Columbia",
+          "category": "rare",
+          "aliases": [
+            "Columbia, SC"
+          ]
+        },
+        {
+          "text": "Columbus",
+          "category": "plankton",
+          "aliases": [
+            "Columbus, OH"
+          ]
+        },
+        {
+          "text": "Dayton",
+          "category": "rare",
+          "aliases": [
+            "Dayton, OH"
+          ]
+        },
+        {
+          "text": "Deltona-Daytona Beach",
+          "category": "deep-cut",
+          "aliases": [
+            "Daytona Beach"
+          ]
+        },
+        {
+          "text": "Denver",
+          "category": "plankton",
+          "aliases": [
+            "Denver, CO"
+          ]
+        },
+        {
+          "text": "Des Moines",
+          "category": "schooler",
+          "aliases": [
+            "Des Moines, IA"
+          ]
+        },
+        {
+          "text": "Detroit",
+          "category": "plankton",
+          "aliases": [
+            "Detroit, MI"
+          ]
+        },
+        {
+          "text": "Durham-Chapel Hill",
+          "category": "rare",
+          "aliases": [
+            "Research Triangle",
+            "Raleigh-Durham",
+            "Durham"
+          ]
+        },
+        {
+          "text": "El Paso",
+          "category": "schooler",
+          "aliases": [
+            "El Paso, TX"
+          ]
+        },
+        {
+          "text": "Fayetteville-Springdale-Rogers",
+          "category": "deep-cut",
+          "aliases": [
+            "Northwest Arkansas",
+            "NWA",
+            "Fayetteville"
+          ]
+        },
+        {
+          "text": "Fresno",
+          "category": "rare",
+          "aliases": [
+            "Fresno, CA"
+          ]
+        },
+        {
+          "text": "Greensboro-High Point",
+          "category": "deep-cut",
+          "aliases": [
+            "Greensboro"
+          ]
+        },
+        {
+          "text": "Greenville-Anderson",
+          "category": "deep-cut",
+          "aliases": [
+            "Greenville"
+          ]
+        },
+        {
+          "text": "Grand Rapids",
+          "category": "schooler",
+          "aliases": [
+            "Grand Rapids, MI"
+          ]
+        },
+        {
+          "text": "Harrisburg",
+          "category": "rare",
+          "aliases": [
+            "Harrisburg, PA"
+          ]
+        },
+        {
+          "text": "Hartford",
+          "category": "schooler",
+          "aliases": [
+            "Hartford, CT"
+          ]
+        },
+        {
+          "text": "Houston",
+          "category": "plankton",
+          "aliases": [
+            "Houston, TX"
+          ]
+        },
+        {
+          "text": "Huntsville",
+          "category": "deep-cut",
+          "aliases": [
+            "Huntsville, AL"
+          ]
+        },
+        {
+          "text": "Indianapolis",
+          "category": "plankton",
+          "aliases": [
+            "Indy"
+          ]
+        },
+        {
+          "text": "Jackson",
+          "category": "rare",
+          "aliases": [
+            "Jackson, MS"
+          ]
+        },
+        {
+          "text": "Jacksonville",
+          "category": "schooler",
+          "aliases": [
+            "Jacksonville, FL",
+            "Jax"
+          ]
+        },
+        {
+          "text": "Kansas City",
+          "category": "schooler",
+          "aliases": [
+            "KC",
+            "Kansas City, MO"
+          ]
+        },
+        {
+          "text": "Killeen-Temple",
+          "category": "krillion",
+          "aliases": [
+            "Killeen",
+            "Temple, TX"
+          ]
+        },
+        {
+          "text": "Knoxville",
+          "category": "rare",
+          "aliases": [
+            "Knoxville, TN"
+          ]
+        },
+        {
+          "text": "Lakeland-Winter Haven",
+          "category": "deep-cut",
+          "aliases": [
+            "Lakeland",
+            "Winter Haven"
+          ]
+        },
+        {
+          "text": "Lancaster",
+          "category": "deep-cut",
+          "aliases": [
+            "Lancaster, PA"
+          ]
+        },
+        {
+          "text": "Las Vegas",
+          "category": "plankton",
+          "aliases": [
+            "Vegas"
+          ]
+        },
+        {
+          "text": "Lexington",
+          "category": "rare",
+          "aliases": [
+            "Lexington, KY"
+          ]
+        },
+        {
+          "text": "Little Rock",
+          "category": "schooler",
+          "aliases": [
+            "Little Rock, AR"
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "category": "plankton",
+          "aliases": [
+            "LA",
+            "Los Angeles, CA"
+          ]
+        },
+        {
+          "text": "Louisville",
+          "category": "schooler",
+          "aliases": [
+            "Louisville, KY"
+          ]
+        },
+        {
+          "text": "Madison",
+          "category": "schooler",
+          "aliases": [
+            "Madison, WI"
+          ]
+        },
+        {
+          "text": "McAllen-Edinburg",
+          "category": "deep-cut",
+          "aliases": [
+            "McAllen",
+            "Rio Grande Valley"
+          ]
+        },
+        {
+          "text": "Memphis",
+          "category": "plankton",
+          "aliases": [
+            "Memphis, TN"
+          ]
+        },
+        {
+          "text": "Miami",
+          "category": "plankton",
+          "aliases": [
+            "Miami-Fort Lauderdale"
+          ]
+        },
+        {
+          "text": "Milwaukee",
+          "category": "schooler",
+          "aliases": [
+            "Milwaukee, WI"
+          ]
+        },
+        {
+          "text": "Minneapolis-St. Paul",
+          "category": "plankton",
+          "aliases": [
+            "Twin Cities",
+            "Minneapolis",
+            "St. Paul"
+          ]
+        },
+        {
+          "text": "Modesto",
+          "category": "deep-cut",
+          "aliases": [
+            "Modesto, CA"
+          ]
+        },
+        {
+          "text": "Nashville",
+          "category": "plankton",
+          "aliases": [
+            "Nashville, TN"
+          ]
+        },
+        {
+          "text": "New Haven",
+          "category": "rare",
+          "aliases": [
+            "New Haven, CT"
+          ]
+        },
+        {
+          "text": "New Orleans",
+          "category": "plankton",
+          "aliases": [
+            "NOLA"
+          ]
+        },
+        {
+          "text": "New York",
+          "category": "plankton",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "text": "North Port-Bradenton-Sarasota",
+          "category": "deep-cut",
+          "aliases": [
+            "Sarasota",
+            "Bradenton",
+            "North Port"
+          ]
+        },
+        {
+          "text": "Oklahoma City",
+          "category": "schooler",
+          "aliases": [
+            "OKC"
+          ]
+        },
+        {
+          "text": "Omaha",
+          "category": "rare",
+          "aliases": [
+            "Omaha, NE"
+          ]
+        },
+        {
+          "text": "Orlando",
+          "category": "plankton",
+          "aliases": [
+            "Orlando, FL"
+          ]
+        },
+        {
+          "text": "Oxnard-Thousand Oaks-Ventura",
+          "category": "deep-cut",
+          "aliases": [
+            "Ventura County",
+            "Oxnard",
+            "Thousand Oaks"
+          ]
+        },
+        {
+          "text": "Palm Bay-Melbourne",
+          "category": "rare",
+          "aliases": [
+            "Melbourne, FL",
+            "Space Coast"
+          ]
+        },
+        {
+          "text": "Pensacola",
+          "category": "rare",
+          "aliases": [
+            "Pensacola, FL"
+          ]
+        },
+        {
+          "text": "Philadelphia",
+          "category": "plankton",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "text": "Phoenix",
+          "category": "plankton",
+          "aliases": [
+            "Phoenix, AZ"
+          ]
+        },
+        {
+          "text": "Pittsburgh",
+          "category": "schooler",
+          "aliases": [
+            "Pittsburgh, PA"
+          ]
+        },
+        {
+          "text": "Port St. Lucie",
+          "category": "krillion",
+          "aliases": [
+            "Port Saint Lucie"
+          ]
+        },
+        {
+          "text": "Portland",
+          "category": "schooler",
+          "aliases": [
+            "Portland, OR"
+          ]
+        },
+        {
+          "text": "Portland, ME",
+          "category": "deep-cut",
+          "aliases": [
+            "Portland, ME",
+            "Portland, Maine",
+            "Portland Maine"
+          ]
+        },
+        {
+          "text": "Provo-Orem-Lehi",
+          "category": "deep-cut",
+          "aliases": [
+            "Provo",
+            "Orem",
+            "Utah County"
+          ]
+        },
+        {
+          "text": "Providence",
+          "category": "schooler",
+          "aliases": [
+            "Providence, RI"
+          ]
+        },
+        {
+          "text": "Raleigh",
+          "category": "schooler",
+          "aliases": [
+            "Raleigh, NC"
+          ]
+        },
+        {
+          "text": "Richmond",
+          "category": "schooler",
+          "aliases": [
+            "Richmond, VA"
+          ]
+        },
+        {
+          "text": "Riverside-San Bernardino",
+          "category": "rare",
+          "aliases": [
+            "Inland Empire",
+            "Riverside",
+            "San Bernardino"
+          ]
+        },
+        {
+          "text": "Rochester",
+          "category": "rare",
+          "aliases": [
+            "Rochester, NY"
+          ]
+        },
+        {
+          "text": "Reno",
+          "category": "schooler",
+          "aliases": [
+            "Reno, NV"
+          ]
+        },
+        {
+          "text": "Sacramento",
+          "category": "plankton",
+          "aliases": [
+            "Sacramento, CA"
+          ]
+        },
+        {
+          "text": "Salt Lake City",
+          "category": "schooler",
+          "aliases": [
+            "SLC"
+          ]
+        },
+        {
+          "text": "San Antonio",
+          "category": "plankton",
+          "aliases": [
+            "San Antonio, TX"
+          ]
+        },
+        {
+          "text": "San Diego",
+          "category": "plankton",
+          "aliases": [
+            "San Diego, CA"
+          ]
+        },
+        {
+          "text": "San Francisco",
+          "category": "plankton",
+          "aliases": [
+            "SF",
+            "Bay Area"
+          ]
+        },
+        {
+          "text": "San Jose",
+          "category": "schooler",
+          "aliases": [
+            "San Jose, CA"
+          ]
+        },
+        {
+          "text": "Seattle",
+          "category": "plankton",
+          "aliases": [
+            "Seattle, WA"
+          ]
+        },
+        {
+          "text": "Spokane",
+          "category": "rare",
+          "aliases": [
+            "Spokane, WA"
+          ]
+        },
+        {
+          "text": "Springfield",
+          "category": "deep-cut",
+          "aliases": [
+            "Springfield, MO"
+          ]
+        },
+        {
+          "text": "St. Louis",
+          "category": "plankton",
+          "aliases": [
+            "Saint Louis",
+            "STL"
+          ]
+        },
+        {
+          "text": "Stockton",
+          "category": "deep-cut",
+          "aliases": [
+            "Stockton, CA"
+          ]
+        },
+        {
+          "text": "Syracuse",
+          "category": "rare",
+          "aliases": [
+            "Syracuse, NY"
+          ]
+        },
+        {
+          "text": "Tampa-St. Petersburg",
+          "category": "plankton",
+          "aliases": [
+            "Tampa Bay",
+            "Tampa",
+            "St. Petersburg"
+          ]
+        },
+        {
+          "text": "Toledo",
+          "category": "rare",
+          "aliases": [
+            "Toledo, OH"
+          ]
+        },
+        {
+          "text": "Tucson",
+          "category": "schooler",
+          "aliases": [
+            "Tucson, AZ"
+          ]
+        },
+        {
+          "text": "Tulsa",
+          "category": "schooler",
+          "aliases": [
+            "Tulsa, OK"
+          ]
+        },
+        {
+          "text": "Urban Honolulu",
+          "category": "rare",
+          "aliases": [
+            "Honolulu",
+            "Oahu"
+          ]
+        },
+        {
+          "text": "Virginia Beach-Norfolk",
+          "category": "schooler",
+          "aliases": [
+            "Hampton Roads",
+            "Virginia Beach",
+            "Norfolk"
+          ]
+        },
+        {
+          "text": "Washington, D.C.",
+          "category": "plankton",
+          "aliases": [
+            "DC",
+            "Washington"
+          ]
+        },
+        {
+          "text": "Wichita",
+          "category": "deep-cut",
+          "aliases": [
+            "Wichita, KS"
+          ]
+        },
+        {
+          "text": "Winston-Salem",
+          "category": "deep-cut",
+          "aliases": [
+            "Winston-Salem, NC"
+          ]
+        },
+        {
+          "text": "Worcester",
+          "category": "deep-cut",
+          "aliases": [
+            "Worcester, MA"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name an MLB player who was born outside the 50 United States and played in the 2026 MLB season.",
+      "answers": [
+        {
+          "text": "Shohei Ohtani",
+          "category": "plankton",
+          "aliases": [
+            "Ohtani"
+          ]
+        },
+        {
+          "text": "Juan Soto",
+          "category": "plankton",
+          "aliases": [
+            "Soto"
+          ]
+        },
+        {
+          "text": "Ronald Acuña Jr.",
+          "category": "plankton",
+          "aliases": [
+            "Acuna"
+          ]
+        },
+        {
+          "text": "José Altuve",
+          "category": "plankton",
+          "aliases": [
+            "Altuve"
+          ]
+        },
+        {
+          "text": "Vladimir Guerrero Jr.",
+          "category": "plankton",
+          "aliases": [
+            "Vlad Jr.",
+            "Vlad Guerrero"
+          ]
+        },
+        {
+          "text": "Fernando Tatis Jr.",
+          "category": "plankton",
+          "aliases": [
+            "Tatis"
+          ]
+        },
+        {
+          "text": "Francisco Lindor",
+          "category": "plankton",
+          "aliases": [
+            "Lindor"
+          ]
+        },
+        {
+          "text": "Julio Rodríguez",
+          "category": "plankton",
+          "aliases": [
+            "J-Rod",
+            "Julio Rodriguez"
+          ]
+        },
+        {
+          "text": "Yordan Alvarez",
+          "category": "plankton",
+          "aliases": [
+            "Yordan"
+          ]
+        },
+        {
+          "text": "Rafael Devers",
+          "category": "plankton",
+          "aliases": [
+            "Devers"
+          ]
+        },
+        {
+          "text": "José Ramírez",
+          "category": "plankton",
+          "aliases": [
+            "Jose Ramirez",
+            "JRam"
+          ]
+        },
+        {
+          "text": "Luis Arraez",
+          "category": "plankton",
+          "aliases": [
+            "Arraez"
+          ]
+        },
+        {
+          "text": "Mookie Betts",
+          "category": "plankton",
+          "aliases": [
+            "Betts"
+          ]
+        },
+        {
+          "text": "Salvador Perez",
+          "category": "plankton",
+          "aliases": [
+            "Salvy"
+          ]
+        },
+        {
+          "text": "Jackson Chourio",
+          "category": "plankton",
+          "aliases": [
+            "Chourio"
+          ]
+        },
+        {
+          "text": "Oneil Cruz",
+          "category": "plankton",
+          "aliases": [
+            "Oneil cruz"
+          ]
+        },
+        {
+          "text": "Randy Arozarena",
+          "category": "plankton",
+          "aliases": [
+            "Arozarena"
+          ]
+        },
+        {
+          "text": "Seiya Suzuki",
+          "category": "plankton",
+          "aliases": [
+            "Suzuki"
+          ]
+        },
+        {
+          "text": "Yoshinobu Yamamoto",
+          "category": "plankton",
+          "aliases": [
+            "Yamamoto"
+          ]
+        },
+        {
+          "text": "Ozzie Albies",
+          "category": "plankton",
+          "aliases": [
+            "Albies"
+          ]
+        },
+        {
+          "text": "Yusei Kikuchi",
+          "category": "schooler",
+          "aliases": [
+            "Kikuchi"
+          ]
+        },
+        {
+          "text": "Kodai Senga",
+          "category": "schooler",
+          "aliases": [
+            "Senga"
+          ]
+        },
+        {
+          "text": "Roki Sasaki",
+          "category": "schooler",
+          "aliases": [
+            "Sasaki"
+          ]
+        },
+        {
+          "text": "Carlos Correa",
+          "category": "schooler",
+          "aliases": [
+            "Correa"
+          ]
+        },
+        {
+          "text": "Javier Báez",
+          "category": "schooler",
+          "aliases": [
+            "Javy Baez"
+          ]
+        },
+        {
+          "text": "Gleyber Torres",
+          "category": "schooler",
+          "aliases": [
+            "Gleyber"
+          ]
+        },
+        {
+          "text": "Ketel Marte",
+          "category": "schooler",
+          "aliases": [
+            "Marte"
+          ]
+        },
+        {
+          "text": "Luis Robert Jr.",
+          "category": "schooler",
+          "aliases": [
+            "Luis Robert"
+          ]
+        },
+        {
+          "text": "Adolis García",
+          "category": "schooler",
+          "aliases": [
+            "Adolis Garcia"
+          ]
+        },
+        {
+          "text": "Lourdes Gurriel Jr.",
+          "category": "schooler",
+          "aliases": [
+            "Gurriel"
+          ]
+        },
+        {
+          "text": "Yandy Díaz",
+          "category": "schooler",
+          "aliases": [
+            "Yandy Diaz"
+          ]
+        },
+        {
+          "text": "William Contreras",
+          "category": "schooler",
+          "aliases": [
+            "Will Contreras"
+          ]
+        },
+        {
+          "text": "Willson Contreras",
+          "category": "schooler",
+          "aliases": [
+            "Wilson Contreras"
+          ]
+        },
+        {
+          "text": "Eugenio Suárez",
+          "category": "schooler",
+          "aliases": [
+            "Eugenio Suarez"
+          ]
+        },
+        {
+          "text": "Framber Valdez",
+          "category": "schooler",
+          "aliases": [
+            "Framber"
+          ]
+        },
+        {
+          "text": "Pablo López",
+          "category": "schooler",
+          "aliases": [
+            "Pablo Lopez"
+          ]
+        },
+        {
+          "text": "Andrés Giménez",
+          "category": "schooler",
+          "aliases": [
+            "Andres Gimenez"
+          ]
+        },
+        {
+          "text": "Jeremy Peña",
+          "category": "schooler",
+          "aliases": [
+            "Jeremy Pena"
+          ]
+        },
+        {
+          "text": "Teoscar Hernández",
+          "category": "schooler",
+          "aliases": [
+            "Teoscar"
+          ]
+        },
+        {
+          "text": "Anthony Santander",
+          "category": "schooler",
+          "aliases": [
+            "Santander"
+          ]
+        },
+        {
+          "text": "Xander Bogaerts",
+          "category": "schooler",
+          "aliases": [
+            "Bogaerts"
+          ]
+        },
+        {
+          "text": "Jazz Chisholm Jr.",
+          "category": "schooler",
+          "aliases": [
+            "Jazz Chisholm"
+          ]
+        },
+        {
+          "text": "Josh Naylor",
+          "category": "schooler",
+          "aliases": [
+            "Naylor"
+          ]
+        },
+        {
+          "text": "Jorge Polanco",
+          "category": "schooler",
+          "aliases": [
+            "Polanco"
+          ]
+        },
+        {
+          "text": "Edwin Díaz",
+          "category": "schooler",
+          "aliases": [
+            "Edwin Diaz"
+          ]
+        },
+        {
+          "text": "Yainer Díaz",
+          "category": "rare",
+          "aliases": [
+            "Yainer Diaz"
+          ]
+        },
+        {
+          "text": "Gabriel Moreno",
+          "category": "rare",
+          "aliases": [
+            "Moreno"
+          ]
+        },
+        {
+          "text": "Maikel García",
+          "category": "rare",
+          "aliases": [
+            "Maikel Garcia"
+          ]
+        },
+        {
+          "text": "Ezequiel Tovar",
+          "category": "rare",
+          "aliases": [
+            "Tovar"
+          ]
+        },
+        {
+          "text": "Geraldo Perdomo",
+          "category": "rare",
+          "aliases": [
+            "Perdomo"
+          ]
+        },
+        {
+          "text": "Wilyer Abreu",
+          "category": "rare",
+          "aliases": [
+            "Abreu"
+          ]
+        },
+        {
+          "text": "Willi Castro",
+          "category": "rare",
+          "aliases": [
+            "Willi Castro",
+            "Willy Castro",
+            "Castro"
+          ]
+        },
+        {
+          "text": "Andrés Muñoz",
+          "category": "rare",
+          "aliases": [
+            "Andres Munoz"
+          ]
+        },
+        {
+          "text": "Isaac Paredes",
+          "category": "rare",
+          "aliases": [
+            "Paredes"
+          ]
+        },
+        {
+          "text": "Jung Hoo Lee",
+          "category": "rare",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "text": "Ha-Seong Kim",
+          "category": "rare",
+          "aliases": [
+            "Kim",
+            "Ha Seoung Kim"
+          ]
+        },
+        {
+          "text": "Masataka Yoshida",
+          "category": "rare",
+          "aliases": [
+            "Yoshida"
+          ]
+        },
+        {
+          "text": "Munetaka Murakami",
+          "category": "plankton",
+          "aliases": [
+            "Murakami"
+          ]
+        },
+        {
+          "text": "Kazuma Okamoto",
+          "category": "rare",
+          "aliases": [
+            "Okamoto"
+          ]
+        },
+        {
+          "text": "Tatsuya Imai",
+          "category": "rare",
+          "aliases": [
+            "Imai"
+          ]
+        },
+        {
+          "text": "Yuki Matsui",
+          "category": "rare",
+          "aliases": [
+            "Matsui"
+          ]
+        },
+        {
+          "text": "Yu Darvish",
+          "category": "rare",
+          "aliases": [
+            "Darvish"
+          ]
+        },
+        {
+          "text": "José Berríos",
+          "category": "rare",
+          "aliases": [
+            "Jose Berrios"
+          ]
+        },
+        {
+          "text": "Jhoan Duran",
+          "category": "rare",
+          "aliases": [
+            "Duran"
+          ]
+        },
+        {
+          "text": "Freddy Peralta",
+          "category": "rare",
+          "aliases": [
+            "Peralta"
+          ]
+        },
+        {
+          "text": "Luis Castillo",
+          "category": "rare",
+          "aliases": [
+            "Castillo"
+          ]
+        },
+        {
+          "text": "Sandy Alcantara",
+          "category": "schooler",
+          "aliases": [
+            "Alcantara"
+          ]
+        },
+        {
+          "text": "Junior Caminero",
+          "category": "plankton",
+          "aliases": [
+            "Caminero"
+          ]
+        },
+        {
+          "text": "Elly De La Cruz",
+          "category": "plankton",
+          "aliases": [
+            "Elly"
+          ]
+        },
+        {
+          "text": "Christopher Sánchez",
+          "category": "rare",
+          "aliases": [
+            "Cristopher Sanchez"
+          ]
+        },
+        {
+          "text": "Ranger Suárez",
+          "category": "rare",
+          "aliases": [
+            "Ranger Suarez"
+          ]
+        },
+        {
+          "text": "Eury Pérez",
+          "category": "rare",
+          "aliases": [
+            "Eury Perez"
+          ]
+        },
+        {
+          "text": "Carlos Estévez",
+          "category": "rare",
+          "aliases": [
+            "Carlos Estevez"
+          ]
+        },
+        {
+          "text": "Raisel Iglesias",
+          "category": "rare",
+          "aliases": [
+            "Raisel"
+          ]
+        },
+        {
+          "text": "Owen Caissie",
+          "category": "deep-cut",
+          "aliases": [
+            "Caissie"
+          ]
+        },
+        {
+          "text": "Denzel Clarke",
+          "category": "deep-cut",
+          "aliases": [
+            "Clarke"
+          ]
+        },
+        {
+          "text": "Liam Hicks",
+          "category": "deep-cut",
+          "aliases": [
+            "Hicks"
+          ]
+        },
+        {
+          "text": "Edouard Julien",
+          "category": "deep-cut",
+          "aliases": [
+            "Julien"
+          ]
+        },
+        {
+          "text": "Bo Naylor",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Tristan Peters",
+          "category": "deep-cut",
+          "aliases": [
+            "Peters"
+          ]
+        },
+        {
+          "text": "Erik Sabrowski",
+          "category": "deep-cut",
+          "aliases": [
+            "Sabrowski"
+          ]
+        },
+        {
+          "text": "Cade Smith",
+          "category": "deep-cut",
+          "aliases": [
+            "Cade Smith"
+          ]
+        },
+        {
+          "text": "Michael Soroka",
+          "category": "deep-cut",
+          "aliases": [
+            "Soroka"
+          ]
+        },
+        {
+          "text": "Rowan Wick",
+          "category": "deep-cut",
+          "aliases": [
+            "Wick"
+          ]
+        },
+        {
+          "text": "Didier Fuentes",
+          "category": "deep-cut",
+          "aliases": [
+            "Fuentes"
+          ]
+        },
+        {
+          "text": "Reiver Sanmartin",
+          "category": "deep-cut",
+          "aliases": [
+            "Sanmartin"
+          ]
+        },
+        {
+          "text": "Yennier Cano",
+          "category": "deep-cut",
+          "aliases": [
+            "Cano"
+          ]
+        },
+        {
+          "text": "Daysbel Hernández",
+          "category": "deep-cut",
+          "aliases": [
+            "Daysbel Hernandez"
+          ]
+        },
+        {
+          "text": "Andy Ibáñez",
+          "category": "deep-cut",
+          "aliases": [
+            "Andy Ibanez"
+          ]
+        },
+        {
+          "text": "Yoán Moncada",
+          "category": "deep-cut",
+          "aliases": [
+            "Moncada"
+          ]
+        },
+        {
+          "text": "Adrian Morejon",
+          "category": "deep-cut",
+          "aliases": [
+            "Morejon"
+          ]
+        },
+        {
+          "text": "Johan Oviedo",
+          "category": "deep-cut",
+          "aliases": [
+            "Oviedo"
+          ]
+        },
+        {
+          "text": "Andy Pages",
+          "category": "rare",
+          "aliases": [
+            "Pages"
+          ]
+        },
+        {
+          "text": "Cionel Pérez",
+          "category": "deep-cut",
+          "aliases": [
+            "Cionel Perez"
+          ]
+        },
+        {
+          "text": "Edgar Quero",
+          "category": "deep-cut",
+          "aliases": [
+            "Quero"
+          ]
+        },
+        {
+          "text": "Miguel Vargas",
+          "category": "deep-cut",
+          "aliases": [
+            "Vargas"
+          ]
+        },
+        {
+          "text": "José Caballero",
+          "category": "deep-cut",
+          "aliases": [
+            "Caballero"
+          ]
+        },
+        {
+          "text": "Iván Herrera",
+          "category": "deep-cut",
+          "aliases": [
+            "Ivan Herrera"
+          ]
+        },
+        {
+          "text": "Edmundo Sosa",
+          "category": "deep-cut",
+          "aliases": [
+            "Sosa"
+          ]
+        },
+        {
+          "text": "Victor Caratini",
+          "category": "deep-cut",
+          "aliases": [
+            "Caratini"
+          ]
+        },
+        {
+          "text": "Joe Jiménez",
+          "category": "deep-cut",
+          "aliases": [
+            "Joe Jimenez"
+          ]
+        },
+        {
+          "text": "Heliot Ramos",
+          "category": "deep-cut",
+          "aliases": [
+            "Heliot"
+          ]
+        },
+        {
+          "text": "Mauricio Dubón",
+          "category": "deep-cut",
+          "aliases": [
+            "Mauricio Dubon"
+          ]
+        },
+        {
+          "text": "Rob Refsnyder",
+          "category": "deep-cut",
+          "aliases": [
+            "Refsnyder"
+          ]
+        },
+        {
+          "text": "Jonathan Aranda",
+          "category": "rare",
+          "aliases": [
+            "Aranda"
+          ]
+        },
+        {
+          "text": "Manuel Rodríguez",
+          "category": "deep-cut",
+          "aliases": [
+            "Manuel Rodriguez"
+          ]
+        },
+        {
+          "text": "José Urquidy",
+          "category": "deep-cut",
+          "aliases": [
+            "Urquidy"
+          ]
+        },
+        {
+          "text": "Jonathan Loáisiga",
+          "category": "krillion",
+          "aliases": [
+            "Loaisiga"
+          ]
+        },
+        {
+          "text": "Miguel Amaya",
+          "category": "rare",
+          "aliases": [
+            "Amaya"
+          ]
+        },
+        {
+          "text": "Fernando Cruz",
+          "category": "deep-cut",
+          "aliases": [
+            "Fernando Cruz"
+          ]
+        },
+        {
+          "text": "Jovani Morán",
+          "category": "deep-cut",
+          "aliases": [
+            "Jovani Moran"
+          ]
+        },
+        {
+          "text": "Osvaldo Bido",
+          "category": "krillion",
+          "aliases": [
+            "Bido"
+          ]
+        },
+        {
+          "text": "Prelander Berroa",
+          "category": "krillion",
+          "aliases": [
+            "Berroa"
+          ]
+        },
+        {
+          "text": "Steward Berroa",
+          "category": "krillion",
+          "aliases": [
+            "Steward Berroa"
+          ]
+        },
+        {
+          "text": "Huascar Brazobán",
+          "category": "krillion",
+          "aliases": [
+            "Brazoban"
+          ]
+        },
+        {
+          "text": "Jhony Brito",
+          "category": "krillion",
+          "aliases": [
+            "Brito"
+          ]
+        },
+        {
+          "text": "Enyel De Los Santos",
+          "category": "krillion",
+          "aliases": [
+            "Enyel"
+          ]
+        },
+        {
+          "text": "Jerar Encarnación",
+          "category": "krillion",
+          "aliases": [
+            "Jerar"
+          ]
+        },
+        {
+          "text": "José Fermín",
+          "category": "deep-cut",
+          "aliases": [
+            "Jose Fermin"
+          ]
+        },
+        {
+          "text": "Ronny Henriquez",
+          "category": "krillion",
+          "aliases": [
+            "Henriquez"
+          ]
+        },
+        {
+          "text": "Otto López",
+          "category": "rare",
+          "aliases": [
+            "Otto Lopez"
+          ]
+        },
+        {
+          "text": "Dedniel Núñez",
+          "category": "krillion",
+          "aliases": [
+            "Dedniel Nunez"
+          ]
+        },
+        {
+          "text": "Joel Payamps",
+          "category": "krillion",
+          "aliases": [
+            "Payamps"
+          ]
+        },
+        {
+          "text": "George Soriano",
+          "category": "rare",
+          "aliases": [
+            "Soriano"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name a burger restaurant chain currently operating 50+ locations in the United States.",
+      "answers": [
+        {
+          "text": "McDonald's",
+          "category": "plankton",
+          "aliases": [
+            "McDonalds"
+          ]
+        },
+        {
+          "text": "Burger King",
+          "category": "plankton",
+          "aliases": [
+            "BK"
+          ]
+        },
+        {
+          "text": "Wendy's",
+          "category": "plankton",
+          "aliases": [
+            "Wendys"
+          ]
+        },
+        {
+          "text": "Dairy Queen",
+          "category": "plankton",
+          "aliases": [
+            "DQ"
+          ]
+        },
+        {
+          "text": "Sonic Drive-In",
+          "category": "schooler",
+          "aliases": [
+            "Sonic"
+          ]
+        },
+        {
+          "text": "Five Guys",
+          "category": "plankton",
+          "aliases": [
+            "Five Guys Burgers"
+          ]
+        },
+        {
+          "text": "Whataburger",
+          "category": "schooler",
+          "aliases": [
+            "Whataburger"
+          ]
+        },
+        {
+          "text": "In-N-Out Burger",
+          "category": "plankton",
+          "aliases": [
+            "In-N-Out",
+            "In and Out",
+            "In n Out"
+          ]
+        },
+        {
+          "text": "Jack in the Box",
+          "category": "schooler",
+          "aliases": [
+            "Jack in Box"
+          ]
+        },
+        {
+          "text": "Hardee's",
+          "category": "rare",
+          "aliases": [
+            "Hardees"
+          ]
+        },
+        {
+          "text": "Carl's Jr.",
+          "category": "rare",
+          "aliases": [
+            "Carls Jr"
+          ]
+        },
+        {
+          "text": "Culver's",
+          "category": "schooler",
+          "aliases": [
+            "Culvers"
+          ]
+        },
+        {
+          "text": "Checkers / Rally's",
+          "category": "rare",
+          "aliases": [
+            "Checkers",
+            "Rallys"
+          ]
+        },
+        {
+          "text": "Shake Shack",
+          "category": "schooler",
+          "aliases": [
+            "Shake Shack"
+          ]
+        },
+        {
+          "text": "White Castle",
+          "category": "schooler",
+          "aliases": [
+            "White Castle"
+          ]
+        },
+        {
+          "text": "Red Robin",
+          "category": "rare",
+          "aliases": [
+            "Red Robin Gourmet Burgers"
+          ]
+        },
+        {
+          "text": "Steak 'n Shake",
+          "category": "schooler",
+          "aliases": [
+            "Steak and Shake",
+            "Steak n Shake"
+          ]
+        },
+        {
+          "text": "Krystal",
+          "category": "rare",
+          "aliases": [
+            "Krystal"
+          ]
+        },
+        {
+          "text": "Freddy's Frozen Custard & Steakburgers",
+          "category": "rare",
+          "aliases": [
+            "Freddys",
+            "Freddy's"
+          ]
+        },
+        {
+          "text": "The Habit Burger Grill",
+          "category": "rare",
+          "aliases": [
+            "Habit Burger",
+            "The Habit",
+            "Habit"
+          ]
+        },
+        {
+          "text": "A&W Restaurants",
+          "category": "rare",
+          "aliases": [
+            "A&W",
+            "A&W All-American Food"
+          ]
+        },
+        {
+          "text": "Jack's",
+          "category": "deep-cut",
+          "aliases": [
+            "Jacks"
+          ]
+        },
+        {
+          "text": "Smashburger",
+          "category": "rare",
+          "aliases": [
+            "Smash Burger"
+          ]
+        },
+        {
+          "text": "Fatburger",
+          "category": "rare",
+          "aliases": [
+            "Fat Burger"
+          ]
+        },
+        {
+          "text": "Wayback Burgers",
+          "category": "deep-cut",
+          "aliases": [
+            "Wayback"
+          ]
+        },
+        {
+          "text": "Fuddruckers",
+          "category": "deep-cut",
+          "aliases": [
+            "Fudruckers"
+          ]
+        },
+        {
+          "text": "Wahlburgers",
+          "category": "deep-cut",
+          "aliases": [
+            "Wahl Burger"
+          ]
+        },
+        {
+          "text": "Blake's Lotaburger",
+          "category": "deep-cut",
+          "aliases": [
+            "Blake's",
+            "Lotaburger"
+          ]
+        },
+        {
+          "text": "Arctic Circle",
+          "category": "deep-cut",
+          "aliases": [
+            "Arctic Circle Restaurants"
+          ]
+        },
+        {
+          "text": "Johnny Rockets",
+          "category": "rare",
+          "aliases": [
+            "Johnny Rockets"
+          ]
+        },
+        {
+          "text": "Hwy 55 Burgers Shakes & Fries",
+          "category": "deep-cut",
+          "aliases": [
+            "Highway 55",
+            "Hwy 55"
+          ]
+        },
+        {
+          "text": "Runza",
+          "category": "deep-cut",
+          "aliases": [
+            "Runza"
+          ]
+        },
+        {
+          "text": "MOOYAH Burgers, Fries & Shakes",
+          "category": "deep-cut",
+          "aliases": [
+            "Mooyah"
+          ]
+        },
+        {
+          "text": "Farmer Boys",
+          "category": "krillion",
+          "aliases": [
+            "Farmer Boys"
+          ]
+        },
+        {
+          "text": "Hopdoddy Burger Bar",
+          "category": "krillion",
+          "aliases": [
+            "Hopdoddy"
+          ]
+        },
+        {
+          "text": "BurgerFi",
+          "category": "deep-cut",
+          "aliases": [
+            "Burger Fi"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name an item you'd find in a bathroom.",
+      "answers": [
+        {
+          "text": "Toilet",
+          "category": "plankton",
+          "aliases": [
+            "Loo",
+            "WC"
+          ]
+        },
+        {
+          "text": "Sink",
+          "category": "plankton",
+          "aliases": [
+            "Washbasin"
+          ]
+        },
+        {
+          "text": "Shower",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Bathtub",
+          "category": "plankton",
+          "aliases": [
+            "Bath",
+            "Tub"
+          ]
+        },
+        {
+          "text": "Mirror",
+          "category": "plankton",
+          "aliases": [
+            "Bathroom mirror"
+          ]
+        },
+        {
+          "text": "Towel",
+          "category": "plankton",
+          "aliases": [
+            "Bath towel"
+          ]
+        },
+        {
+          "text": "Toothbrush",
+          "category": "plankton",
+          "aliases": [
+            "Tooth brush"
+          ]
+        },
+        {
+          "text": "Toothpaste",
+          "category": "plankton",
+          "aliases": [
+            "Tooth paste"
+          ]
+        },
+        {
+          "text": "Shampoo",
+          "category": "plankton",
+          "aliases": []
+        },
+        {
+          "text": "Conditioner",
+          "category": "plankton",
+          "aliases": [
+            "Hair conditioner"
+          ]
+        },
+        {
+          "text": "Bar Soap",
+          "category": "plankton",
+          "aliases": [
+            "Soap"
+          ]
+        },
+        {
+          "text": "Hand Soap",
+          "category": "plankton",
+          "aliases": [
+            "Liquid hand soap"
+          ]
+        },
+        {
+          "text": "Body Wash",
+          "category": "schooler",
+          "aliases": [
+            "Shower gel",
+            "Body cleanser"
+          ]
+        },
+        {
+          "text": "Toilet Paper",
+          "category": "plankton",
+          "aliases": [
+            "TP",
+            "Bathroom tissue"
+          ]
+        },
+        {
+          "text": "Stall",
+          "category": "schooler",
+          "aliases": [
+            "Bathroom stall",
+            "Toilet stall"
+          ]
+        },
+        {
+          "text": "Urinal",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Shower Curtain",
+          "category": "schooler",
+          "aliases": [
+            "Shower liner"
+          ]
+        },
+        {
+          "text": "Bath Mat",
+          "category": "schooler",
+          "aliases": [
+            "Bathroom mat"
+          ]
+        },
+        {
+          "text": "Toilet Brush",
+          "category": "rare",
+          "aliases": [
+            "Toilet scrubber"
+          ]
+        },
+        {
+          "text": "Plunger",
+          "category": "schooler",
+          "aliases": [
+            "Toilet plunger"
+          ]
+        },
+        {
+          "text": "Trash Can",
+          "category": "rare",
+          "aliases": [
+            "Wastebasket"
+          ]
+        },
+        {
+          "text": "Hair Dryer",
+          "category": "schooler",
+          "aliases": [
+            "Blow dryer"
+          ]
+        },
+        {
+          "text": "Deodorant",
+          "category": "schooler",
+          "aliases": [
+            "Antiperspirant",
+            "Stick deodorant",
+            "spray deodorant"
+          ]
+        },
+        {
+          "text": "Razor",
+          "category": "schooler",
+          "aliases": [
+            "Shaver"
+          ]
+        },
+        {
+          "text": "Dental Floss",
+          "category": "schooler",
+          "aliases": [
+            "Floss"
+          ]
+        },
+        {
+          "text": "Mouthwash",
+          "category": "schooler",
+          "aliases": [
+            "Mouth rinse"
+          ]
+        },
+        {
+          "text": "Toothbrush Holder",
+          "category": "rare",
+          "aliases": [
+            "Toothbrush cup"
+          ]
+        },
+        {
+          "text": "Tissue Box",
+          "category": "schooler",
+          "aliases": [
+            "Tissues"
+          ]
+        },
+        {
+          "text": "Bathrobe",
+          "category": "schooler",
+          "aliases": [
+            "Robe"
+          ]
+        },
+        {
+          "text": "Loofah",
+          "category": "rare",
+          "aliases": [
+            "Loofa",
+            "Bath sponge",
+            "Body sponge"
+          ]
+        },
+        {
+          "text": "Showerhead",
+          "category": "rare",
+          "aliases": [
+            "Shower head"
+          ]
+        },
+        {
+          "text": "Faucet",
+          "category": "rare",
+          "aliases": [
+            "Tap"
+          ]
+        },
+        {
+          "text": "Shower Door",
+          "category": "schooler",
+          "aliases": [
+            "Glass shower door"
+          ]
+        },
+        {
+          "text": "Urinal Cake",
+          "category": "deep-cut",
+          "aliases": [
+            "Urinal deodorizer block"
+          ]
+        },
+        {
+          "text": "Hand Dryer",
+          "category": "schooler",
+          "aliases": [
+            "Electric hand dryer"
+          ]
+        },
+        {
+          "text": "Paper Towel Dispenser",
+          "category": "schooler",
+          "aliases": [
+            "Paper towel machine"
+          ]
+        },
+        {
+          "text": "Paper Towels",
+          "category": "schooler",
+          "aliases": [
+            "Hand towels"
+          ]
+        },
+        {
+          "text": "Soap Dispenser",
+          "category": "schooler",
+          "aliases": [
+            "Hand soap dispenser"
+          ]
+        },
+        {
+          "text": "Air Freshener",
+          "category": "schooler",
+          "aliases": [
+            "Bathroom spray",
+            "Febreeze"
+          ]
+        },
+        {
+          "text": "Toilet Paper Holder",
+          "category": "rare",
+          "aliases": [
+            "TP holder"
+          ]
+        },
+        {
+          "text": "Towel Rack",
+          "category": "rare",
+          "aliases": [
+            "Towel bar"
+          ]
+        },
+        {
+          "text": "Medicine Cabinet",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Vanity",
+          "category": "rare",
+          "aliases": [
+            "Bathroom vanity"
+          ]
+        },
+        {
+          "text": "Shower Caddy",
+          "category": "rare",
+          "aliases": [
+            "Shower organizer"
+          ]
+        },
+        {
+          "text": "Toilet Seat Cover Dispenser",
+          "category": "deep-cut",
+          "aliases": [
+            "Seat cover dispenser"
+          ]
+        },
+        {
+          "text": "Toilet Seat Covers",
+          "category": "rare",
+          "aliases": [
+            "Paper toilet seat covers"
+          ]
+        },
+        {
+          "text": "Tampon Dispenser",
+          "category": "deep-cut",
+          "aliases": [
+            "Feminine hygiene dispenser"
+          ]
+        },
+        {
+          "text": "Feminine Hygiene Disposal Bin",
+          "category": "deep-cut",
+          "aliases": [
+            "Sanitary disposal bin"
+          ]
+        },
+        {
+          "text": "Baby Changing Station",
+          "category": "deep-cut",
+          "aliases": [
+            "Diaper changing table"
+          ]
+        },
+        {
+          "text": "Bathroom Partition",
+          "category": "deep-cut",
+          "aliases": [
+            "Stall divider"
+          ]
+        },
+        {
+          "text": "Bidet",
+          "category": "rare",
+          "aliases": [
+            "Bidet attachment"
+          ]
+        },
+        {
+          "text": "Bathroom Fan",
+          "category": "deep-cut",
+          "aliases": [
+            "Exhaust fan"
+          ]
+        },
+        {
+          "text": "Drain Stopper",
+          "category": "deep-cut",
+          "aliases": [
+            "Plug"
+          ]
+        },
+        {
+          "text": "Body Lotion",
+          "category": "schooler",
+          "aliases": [
+            "Lotion"
+          ]
+        },
+        {
+          "text": "Face Wash",
+          "category": "plankton",
+          "aliases": [
+            "Facial cleanser"
+          ]
+        },
+        {
+          "text": "Moisturizer",
+          "category": "schooler",
+          "aliases": [
+            "Face cream"
+          ]
+        },
+        {
+          "text": "Makeup Remover",
+          "category": "rare",
+          "aliases": [
+            "Makeup remover wipes"
+          ]
+        },
+        {
+          "text": "Foundation",
+          "category": "rare",
+          "aliases": [
+            "Makeup foundation"
+          ]
+        },
+        {
+          "text": "Concealer",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Mascara",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Eyeliner",
+          "category": "rare",
+          "aliases": [
+            "Eye liner"
+          ]
+        },
+        {
+          "text": "Eyeshadow",
+          "category": "rare",
+          "aliases": [
+            "Eye shadow"
+          ]
+        },
+        {
+          "text": "Lipstick",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Lip Gloss",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Blush",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Makeup Brush",
+          "category": "rare",
+          "aliases": [
+            "Cosmetic brush"
+          ]
+        },
+        {
+          "text": "Makeup Sponge",
+          "category": "rare",
+          "aliases": [
+            "Beauty blender"
+          ]
+        },
+        {
+          "text": "Cotton Swabs",
+          "category": "schooler",
+          "aliases": [
+            "Q-tips",
+            "Cotton buds"
+          ]
+        },
+        {
+          "text": "Cotton Balls",
+          "category": "rare",
+          "aliases": [
+            "Cotton pads"
+          ]
+        },
+        {
+          "text": "Tweezers",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Nail Clippers",
+          "category": "rare",
+          "aliases": [
+            "Nail cutter"
+          ]
+        },
+        {
+          "text": "Nail File",
+          "category": "rare",
+          "aliases": [
+            "Emery board"
+          ]
+        },
+        {
+          "text": "Nail Polish",
+          "category": "rare",
+          "aliases": [
+            "Nail varnish"
+          ]
+        },
+        {
+          "text": "Nail Polish Remover",
+          "category": "deep-cut",
+          "aliases": [
+            "Acetone"
+          ]
+        },
+        {
+          "text": "Nail Scrubber",
+          "category": "deep-cut",
+          "aliases": [
+            "Nail brush"
+          ]
+        },
+        {
+          "text": "Hairbrush",
+          "category": "schooler",
+          "aliases": [
+            "Hair brush"
+          ]
+        },
+        {
+          "text": "Comb",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Hair Ties",
+          "category": "rare",
+          "aliases": [
+            "Hair bands",
+            "Elastics"
+          ]
+        },
+        {
+          "text": "Hair Clips",
+          "category": "rare",
+          "aliases": [
+            "Barrettes"
+          ]
+        },
+        {
+          "text": "Bobby Pins",
+          "category": "rare",
+          "aliases": [
+            "Hair pins"
+          ]
+        },
+        {
+          "text": "Hairspray",
+          "category": "rare",
+          "aliases": [
+            "Hair spray"
+          ]
+        },
+        {
+          "text": "Hair Gel",
+          "category": "rare",
+          "aliases": [
+            "Styling gel"
+          ]
+        },
+        {
+          "text": "Dry Shampoo",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Hair Straightener",
+          "category": "rare",
+          "aliases": [
+            "Flat iron"
+          ]
+        },
+        {
+          "text": "Curling Iron",
+          "category": "rare",
+          "aliases": [
+            "Curling wand"
+          ]
+        },
+        {
+          "text": "Hair Rollers",
+          "category": "deep-cut",
+          "aliases": [
+            "Rollers"
+          ]
+        },
+        {
+          "text": "Hair Mousse",
+          "category": "deep-cut",
+          "aliases": [
+            "Styling mousse"
+          ]
+        },
+        {
+          "text": "Hair Serum",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Shaving Cream",
+          "category": "schooler",
+          "aliases": [
+            "Shave cream"
+          ]
+        },
+        {
+          "text": "Aftershave",
+          "category": "deep-cut",
+          "aliases": [
+            "After-shave"
+          ]
+        },
+        {
+          "text": "Electric Shaver",
+          "category": "rare",
+          "aliases": [
+            "Electric razor"
+          ]
+        },
+        {
+          "text": "Beard Trimmer",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Shaving Brush",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bath Salts",
+          "category": "deep-cut",
+          "aliases": [
+            "Epsom salts"
+          ]
+        },
+        {
+          "text": "Bubble Bath",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Shower Cap",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Scale",
+          "category": "rare",
+          "aliases": [
+            "Bathroom scale"
+          ]
+        },
+        {
+          "text": "Scrub Brush",
+          "category": "rare",
+          "aliases": [
+            "Cleaning brush"
+          ]
+        },
+        {
+          "text": "Disinfectant",
+          "category": "deep-cut",
+          "aliases": [
+            "Disinfecting spray"
+          ]
+        },
+        {
+          "text": "Toilet Cleaner",
+          "category": "deep-cut",
+          "aliases": [
+            "Toilet bowl cleaner"
+          ]
+        },
+        {
+          "text": "Glass Cleaner",
+          "category": "deep-cut",
+          "aliases": [
+            "Windex"
+          ]
+        },
+        {
+          "text": "Rubber Gloves",
+          "category": "deep-cut",
+          "aliases": [
+            "Cleaning gloves"
+          ]
+        },
+        {
+          "text": "Oral irrigator",
+          "category": "deep-cut",
+          "aliases": [
+            "Water pick",
+            "waterpik"
+          ]
+        },
+        {
+          "text": "Bath bomb",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Electric Toothbrush",
+          "category": "schooler",
+          "aliases": [
+            "Electric Tooth Brush"
+          ]
+        },
+        {
+          "text": "Rubber Duck",
+          "category": "deep-cut",
+          "aliases": [
+            "Rubber Ducky",
+            "Bath toys",
+            "Bath toy"
+          ]
+        },
+        {
+          "text": "Candle",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Tampon",
+          "category": "schooler",
+          "aliases": []
+        },
+        {
+          "text": "Pad",
+          "category": "schooler",
+          "aliases": [
+            "Sanitary pad"
+          ]
+        },
+        {
+          "text": "Face serum",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Diffuser",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Curl Rollers",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Heat protectant",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Shower drain",
+          "category": "rare",
+          "aliases": [
+            "Drain"
+          ]
+        },
+        {
+          "text": "Sink drain",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Drain plug",
+          "category": "deep-cut",
+          "aliases": [
+            "Shower drain plug",
+            "sink drain plug"
+          ]
+        },
+        {
+          "text": "Butt plug",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Dildo",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Vibrator",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Lube",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Condoms",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Ribbed Condoms",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Flavored condoms",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Pocket pussy",
+          "category": "deep-cut",
+          "aliases": [
+            "Stroker device"
+          ]
+        },
+        {
+          "text": "Strap-on",
+          "category": "krillion",
+          "aliases": []
+        },
+        {
+          "text": "Essential Oils",
+          "category": "rare",
+          "aliases": []
+        },
+        {
+          "text": "Sugar scrub",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Bandaids",
+          "category": "schooler",
+          "aliases": [
+            "Bandages"
+          ]
+        },
+        {
+          "text": "Neosporin",
+          "category": "deep-cut",
+          "aliases": [
+            "Antibacterial cream"
+          ]
+        },
+        {
+          "text": "Antihistamine cream",
+          "category": "deep-cut",
+          "aliases": [
+            "Cortisol cream"
+          ]
+        },
+        {
+          "text": "Minoxidil",
+          "category": "krillion",
+          "aliases": [
+            "Regrowth hair oil"
+          ]
+        }
+      ]
+    },
+    {
+      "prompt": "Name a California-based four-year college or university with at least 2,500 undergraduate students.",
+      "answers": [
+        {
+          "text": "UCLA",
+          "category": "plankton",
+          "aliases": [
+            "University of California, Los Angeles"
+          ]
+        },
+        {
+          "text": "USC",
+          "category": "plankton",
+          "aliases": [
+            "University of Southern California"
+          ]
+        },
+        {
+          "text": "Stanford University",
+          "category": "plankton",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "text": "UC Berkeley",
+          "category": "plankton",
+          "aliases": [
+            "Berkeley",
+            "Cal"
+          ]
+        },
+        {
+          "text": "UC San Diego",
+          "category": "schooler",
+          "aliases": [
+            "UCSD"
+          ]
+        },
+        {
+          "text": "UC Davis",
+          "category": "schooler",
+          "aliases": [
+            "University of California, Davis",
+            "UCDavis"
+          ]
+        },
+        {
+          "text": "UC Irvine",
+          "category": "schooler",
+          "aliases": [
+            "UCI",
+            "UCIrvine"
+          ]
+        },
+        {
+          "text": "UC Santa Barbara",
+          "category": "plankton",
+          "aliases": [
+            "UCSB"
+          ]
+        },
+        {
+          "text": "Cal Poly San Luis Obispo",
+          "category": "rare",
+          "aliases": [
+            "Cal Poly SLO"
+          ]
+        },
+        {
+          "text": "San Diego State University",
+          "category": "schooler",
+          "aliases": [
+            "SDSU",
+            "San Diego State"
+          ]
+        },
+        {
+          "text": "UC Santa Cruz",
+          "category": "rare",
+          "aliases": [
+            "UCSC"
+          ]
+        },
+        {
+          "text": "UC Riverside",
+          "category": "rare",
+          "aliases": [
+            "UCR"
+          ]
+        },
+        {
+          "text": "San Jose State University",
+          "category": "deep-cut",
+          "aliases": [
+            "SJSU"
+          ]
+        },
+        {
+          "text": "Cal State Long Beach",
+          "category": "rare",
+          "aliases": [
+            "Long Beach State",
+            "CSULB"
+          ]
+        },
+        {
+          "text": "Cal State Fullerton",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUF"
+          ]
+        },
+        {
+          "text": "Fresno State",
+          "category": "rare",
+          "aliases": [
+            "California State University, Fresno"
+          ]
+        },
+        {
+          "text": "Chapman University",
+          "category": "schooler",
+          "aliases": [
+            "Chapman"
+          ]
+        },
+        {
+          "text": "Loyola Marymount University",
+          "category": "rare",
+          "aliases": [
+            "LMU"
+          ]
+        },
+        {
+          "text": "Santa Clara University",
+          "category": "rare",
+          "aliases": [
+            "Santa Clara"
+          ]
+        },
+        {
+          "text": "Pepperdine University",
+          "category": "schooler",
+          "aliases": [
+            "Pepperdine"
+          ]
+        },
+        {
+          "text": "University of San Diego",
+          "category": "schooler",
+          "aliases": [
+            "USD"
+          ]
+        },
+        {
+          "text": "Cal State Northridge",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUN"
+          ]
+        },
+        {
+          "text": "Sacramento State",
+          "category": "deep-cut",
+          "aliases": [
+            "Sac State",
+            "CSU Sacramento"
+          ]
+        },
+        {
+          "text": "Cal State LA",
+          "category": "rare",
+          "aliases": [
+            "CSULA",
+            "Cal State Los Angeles"
+          ]
+        },
+        {
+          "text": "San Francisco State University",
+          "category": "rare",
+          "aliases": [
+            "SFSU"
+          ]
+        },
+        {
+          "text": "Cal Poly Pomona",
+          "category": "deep-cut",
+          "aliases": [
+            "CPP"
+          ]
+        },
+        {
+          "text": "Cal State San Bernardino",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUSB"
+          ]
+        },
+        {
+          "text": "Cal State San Marcos",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUSM"
+          ]
+        },
+        {
+          "text": "Chico State",
+          "category": "deep-cut",
+          "aliases": [
+            "CSU Chico"
+          ]
+        },
+        {
+          "text": "UC Merced",
+          "category": "rare",
+          "aliases": [
+            "University of California, Merced"
+          ]
+        },
+        {
+          "text": "University of San Francisco",
+          "category": "rare",
+          "aliases": [
+            "USF"
+          ]
+        },
+        {
+          "text": "University of the Pacific",
+          "category": "rare",
+          "aliases": [
+            "Pacific"
+          ]
+        },
+        {
+          "text": "National University",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "California Baptist University",
+          "category": "deep-cut",
+          "aliases": [
+            "CBU"
+          ]
+        },
+        {
+          "text": "Biola University",
+          "category": "deep-cut",
+          "aliases": []
+        },
+        {
+          "text": "Cal State East Bay",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUEB"
+          ]
+        },
+        {
+          "text": "Cal State Dominguez Hills",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUDH"
+          ]
+        },
+        {
+          "text": "Cal State Bakersfield",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUB"
+          ]
+        },
+        {
+          "text": "Cal State Stanislaus",
+          "category": "deep-cut",
+          "aliases": [
+            "CSU Stanislaus"
+          ]
+        },
+        {
+          "text": "Cal State Monterey Bay",
+          "category": "deep-cut",
+          "aliases": [
+            "CSUMB"
+          ]
+        },
+        {
+          "text": "Cal Poly Humboldt",
+          "category": "deep-cut",
+          "aliases": [
+            "Humboldt State"
+          ]
+        },
+        {
+          "text": "Sonoma State University",
+          "category": "deep-cut",
+          "aliases": [
+            "Sonoma State"
+          ]
+        },
+        {
+          "text": "University of La Verne",
+          "category": "deep-cut",
+          "aliases": [
+            "La Verne"
+          ]
+        },
+        {
+          "text": "Point Loma Nazarene University",
+          "category": "krillion",
+          "aliases": [
+            "PLNU",
+            "Point Loma"
+          ]
+        },
+        {
+          "text": "Azusa Pacific University",
+          "category": "krillion",
+          "aliases": [
+            "APU"
+          ]
+        },
+        {
+          "text": "CSU Channel Islands",
+          "category": "krillion",
+          "aliases": [
+            "Cal State Channel Islands",
+            "CSUCI"
+          ]
+        },
+        {
+          "text": "Los Angeles Film School",
+          "category": "deep-cut",
+          "aliases": [
+            "LA Film School"
+          ]
+        },
+        {
+          "text": "Academy of Art University",
+          "category": "deep-cut",
+          "aliases": [
+            "Academy of Art"
+          ]
+        }
+      ]
+    }
+  ]
+}
